@@ -1,1 +1,2 @@
 This is a trial of a new function.
+And I am making changes to this file.
